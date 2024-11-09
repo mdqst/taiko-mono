@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.0](https://github.com/taikoxyz/taiko-mono/compare/docs-site-v1.16.0...docs-site-v1.17.0) (2024-11-09)
+
+
+### Features
+
+* **docs-site:** update testnet address ([#18472](https://github.com/taikoxyz/taiko-mono/issues/18472)) ([cda3956](https://github.com/taikoxyz/taiko-mono/commit/cda3956f23f5ae913d1432e90417351db52572fb))
+
 ## [1.16.0](https://github.com/taikoxyz/taiko-mono/compare/docs-site-v1.15.0...docs-site-v1.16.0) (2024-11-07)
 
 
